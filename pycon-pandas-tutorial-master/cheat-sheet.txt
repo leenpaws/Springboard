@@ -148,7 +148,8 @@ s.str.startswith() s.plot(...)      df.plot(x='a', y='b', kind='bar')
   df.fillna(value)  s.dt.day        pd.concat([df1, df2])
   s.fillna(value)   s.dt.dayofweek
 
-
+pandas.pydata.org/pandas-docs/dev/api.html
+
 
 
 

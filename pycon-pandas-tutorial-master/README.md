@@ -1,4 +1,3 @@
-
 # Welcome to Brandon’s Pandas Tutorial
 
 The first instance of this tutorial was delivered at PyCon 2015 in
